@@ -27,3 +27,4 @@ print("current Humidity      :",hmdt, '%',file=fileW)
 print("current wind speed    :",wind_spd,'kmph',file=fileW)
 
 
+fileW.close()
