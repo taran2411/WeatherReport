@@ -1,0 +1,7 @@
+------------------------------------------------
+Weather Report for - HOSUR || 22  Jun  21 | 10 41 02 AM
+------------------------------------------------
+Current Temperature is: 26.75 deg C
+Current weather desc  : overcast clouds
+current Humidity      : 48 %
+current wind speed    : 6 kmph
